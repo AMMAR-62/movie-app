@@ -3,6 +3,8 @@
 ![App Screenshot](./src/assets/images/Screenshot%202023-09-25%20010607.png)
 ![App Screenshot](./src/assets/images/Screenshot%202023-09-25%20010639.png)
 
+## [Demo](https://movie-app-ammar62.netlify.app/)
+
 ### Installation
 
 1. Clone the repository:
