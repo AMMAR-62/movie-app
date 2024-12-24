@@ -7,7 +7,7 @@ const DefaultList = () => {
 
   useEffect(() => {
     getMovies();
-  }, []);
+  });
 
   async function getMovies() {
     try {
